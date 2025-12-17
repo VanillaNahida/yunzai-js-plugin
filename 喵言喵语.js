@@ -4,8 +4,9 @@ import Yaml from 'yaml'
 import _ from 'lodash'
 import fs from 'fs'
 import path from 'path'
-
-const yaml_url = "https://raw.githubusercontent.com/VanillaNahida/yunzai-js-plugin/refs/heads/main/CalabiYau_text_base64.txt";
+// 国内URL：https://gitee.com/VanillaNahida/yunzai-js-plugin/raw/main/CalabiYau_text_base64.txt
+// GitHub URL：https://raw.githubusercontent.com/VanillaNahida/yunzai-js-plugin/refs/heads/main/CalabiYau_text_base64.txt
+const yaml_url = "https://gitee.com/VanillaNahida/yunzai-js-plugin/raw/main/CalabiYau_text_base64.txt";
 const yaml_file_path ="./plugins/example/CalabiYau_text.yml"
 
 async function fetchAndSaveYaml() {
