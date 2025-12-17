@@ -4,9 +4,11 @@ GitHub仓库：[https://github.com/VanillaNahida/yunzai-js-plugin](https://githu
 
 # 卡拉彼丘喵言喵语：
 该插件可以发送卡拉彼丘的喵语。一起成为卡奴吧喵！
+
 <div align="center">
-  <img src="image/CalabiYau.png" alt="卡拉彼丘" width="200">
+  <img src="image/CalabiYau.png" alt="卡拉彼丘" width="300">
 </div>
+
 ## 食用方法：
   1. 下载 `喵言喵语.js` 插件到云崽Bot的 `plugins/example` 目录下。
   2. 发送`喵言喵语`即可。
