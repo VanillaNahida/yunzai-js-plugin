@@ -3,7 +3,7 @@
 
 GitHub仓库：[https://github.com/VanillaNahida/yunzai-js-plugin](https://github.com/VanillaNahida/yunzai-js-plugin)  
 
-GitHub仓库：[https://gitee.com/VanillaNahida/yunzai-js-plugin](https://gitee.com/VanillaNahida/yunzai-js-plugin)  
+Gitee仓库：[https://gitee.com/VanillaNahida/yunzai-js-plugin](https://gitee.com/VanillaNahida/yunzai-js-plugin)  
 # 卡拉彼丘喵言喵语：
 该插件可以发送卡拉彼丘的喵语。一起成为卡奴吧喵！
 
